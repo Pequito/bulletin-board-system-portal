@@ -164,6 +164,5 @@ SysOps, BBS software developers, network coordinators, video creators, and membe
 
 <p align="center">
   <strong>Bulletin Board System Portal</strong><br>
-  Directory · Showcase · Resources<br><br>
-  <em>Twinkle BBS</em>
+  Directory · Showcase · Resources
 </p>
