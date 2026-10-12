@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banners/bulletin_board_system_portal.jpg" alt="Bulletin Board System Portal" width="100%">
+  <img src="assets/banners/bulletin_board_system_portal.webp" alt="Bulletin Board System Portal" width="100%">
 </p>
 
 <h1 align="center">Bulletin Board System Portal</h1>
